@@ -38,14 +38,13 @@ Streamlit-based intelligent document scraper and summarizer that organizes parse
 ---
 
 ## 🏅 Certifications
-[![AWS Certified Machine Learning – Specialty](https://images.credly.com/size/120x120/images/fe21e5c4-7f41-465b-b9d0-4e51db34deb6/AWS-ML.png)](https://www.credly.com/badges/fe21e5c4-7f41-465b-b9d0-4e51db34deb6/public_url)
-[![Google IT Support](https://images.credly.com/size/120x120/images/319046c4-3bac-401e-8c50-85b0d0952344/Google-IT-Support.png)](https://www.credly.com/badges/319046c4-3bac-401e-8c50-85b0d0952344/public_url)
-
 <p align="center">
   <img src="Badges/mckinsey-org-forward-program.png" width="120" alt="McKinsey Forward Program"/>
   <img src="Badges/network-addressing-and-basic-troubleshooting.png" width="120" alt="Network Addressing and Basic Troubleshooting"/>
   <img src="Badges/networking-basics.png" width="120" alt="Networking Basics"/>
-  <img src="networking-devices-and-initial-configuration.png" width="120" alt="Networking Devices and Initial Configuration"/>
+  <img src="Badges/networking-devices-and-initial-configuration.png" width="120" alt="Networking Devices and Initial Configuration"/>
+  <img src="Badges/getting-started-with-enterprise-data-science.2.png" width="120" alt="getting started with enterprise data science"/>
+  <img src="Badges/journey-to-cloud-envisioning-your-solution.2.png" width="120" alt="journey to cloud envisioning your solution"/>
 </p>
 
 
