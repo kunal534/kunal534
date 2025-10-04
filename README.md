@@ -1,8 +1,4 @@
-<samp>
-
-<p align="center">
-  <h1 align="center">Hey there, I'm Kunal 👋</h1>
-</p>
+![👋 Hi, my name is Kunal Uttam](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/github-header-banner.png" width="80%" alt="profile-banner"/>
+  <h1 align="center">Hey there, I'm Kunal 👋</h1>
 </p>
+
 
 ---
 
