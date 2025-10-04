@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.png" width="80%" alt="profile-banner"/>
+  <img src="assets/github-header-banner.png" width="80%" alt="profile-banner"/>
 </p>
 
 ---
