@@ -65,8 +65,8 @@ To adjust the badges, hold **Shift+Click** to change size, **Command+Click** to 
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/kunal534)  
-- 📧 Email: kunaluttam534@gmail.com  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/kunal534](https://www.linkedin.com/in/kunal-uttam-379378205/))  
+- 📧 Email: kunaluttam20@gmail.com  
 
 ---
 
