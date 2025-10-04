@@ -132,10 +132,10 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kunal534" target="_blank">
+  <a href="https://www.linkedin.com/in/kunal-uttam-379378205/" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" width="50" height="50"/>
   </a>
-  <a href="mailto:kunaluttam534@gmail.com">
+  <a href="mailto:kunaluttam20@gmail.com">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50"/>
   </a>
 </p>
