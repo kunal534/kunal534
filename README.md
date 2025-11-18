@@ -102,7 +102,8 @@
 ## 🏆 Achievements
 - 🏅 **Flipkart GRID Semi-Finalist 2023**  
 - 🏅 **Ramanujan Medalist**  
-- 🏅 **CodeKaze Competitive Ranker**  
+- 🏅 **CodeKaze Competitive Ranker**
+- 🏅 **Cleared first Round of Meta Hackercup 2025**  
 
 ---
 
